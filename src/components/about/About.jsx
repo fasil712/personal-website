@@ -40,6 +40,7 @@ const About = () => {
             adipisicing elit. Quasi consequatur libero quod ea assumenda a alias est? Aperiam iste neque porro,
              ipsum perferendis dignissimos eum eos distinctio similique voluptates ab?
           </p>
+          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>

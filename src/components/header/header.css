@@ -25,25 +25,24 @@ header{
     bottom: 3rem;
 }
 .header_socials::after{
-    contain: "";
+    content: "";
     width: 1px;
     height: 2rem;
     background: var(--color-primary);
 }
 .me{
-    background: var(--color-primary);
+    background: transparent;
     width: 22rem;
     height: 30rem;
     position: absolute;
     left: calc(50% - 11rem);
-    margin-top: 4rem;
+    margin-top: 2.5rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
 }
 .scroll_down{
     position: absolute;
-    right: -2.3rem;
+    right: 10rem;
     bottom: 5rem;
     transform: rotate(90deg);
     font-weight: 300;
@@ -61,7 +60,8 @@ header{
     header{
         height: 100vh;
     }
-    .header_socials, .scroll_down{
+    .header_socials, 
+    .scroll_down{
         display: none;
     }
 }
