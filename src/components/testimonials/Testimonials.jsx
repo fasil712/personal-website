@@ -17,25 +17,25 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVATR1,
-    name: "Aster Awoke",
+    name: "Getachew Zemene",
     review:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, minus! Recusandae ea necessitatibus tempora officia provident sunt est dolorem esse neque temporibus. Doloribus odit dignissimos quae rem nulla nostrum possimus",
   },
   {
     avatar: AVATR2,
-    name: "Tilahun Gessese",
+    name: "Animaw Yitayal",
     review:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, minus! Recusandae ea necessitatibus tempora officia provident sunt est dolorem esse neque temporibus. Doloribus odit dignissimos quae rem nulla nostrum possimus",
   },
   {
     avatar: AVATR3,
-    name: "Teddy Afro",
+    name: "Leul Sewale",
     review:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, minus! Recusandae ea necessitatibus tempora officia provident sunt est dolorem esse neque temporibus. Doloribus odit dignissimos quae rem nulla nostrum possimus",
   },
   {
     avatar: AVATR4,
-    name: "Neway Debebe",
+    name: "Natnael Tadesse",
     review:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, minus! Recusandae ea necessitatibus tempora officia provident sunt est dolorem esse neque temporibus. Doloribus odit dignissimos quae rem nulla nostrum possimus",
   },

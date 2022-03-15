@@ -60,7 +60,7 @@
     color: var(--color-light);
 }
 /*=====================MEDIA QUERIES (MEDIUM DEVICES)=========================*/
-@media screen and(max-width: 1024px){
+@media screen and (max-width: 1024px){
     .about_container{
         grid-template-columns: 1fr;
         gap: 0;
@@ -75,7 +75,7 @@
 }
 
 /*=====================MEDIA QUERIES (SMALL DEVICES)=========================*/
-@media screen and(max-width: 600px){
+@media screen and (max-width: 600px){
     .about_me{
         width: 65%;
         margin: 0 auto 3rem;
